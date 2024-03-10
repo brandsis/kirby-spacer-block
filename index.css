@@ -1,0 +1,12 @@
+.k-block-type-spacer div {
+	color: #999;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.k-block-type-spacer svg {
+	display: inline;
+	margin-right: 5px;
+	position: relative;
+	top: 1px;
+}
