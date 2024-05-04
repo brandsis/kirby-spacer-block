@@ -1,7 +1,7 @@
 .k-block-type-spacer div {
-	color: #999;
-	font-size: 14px;
-	font-weight: 400;
+	color: var(--color-gray-600);
+	font-size: var(--text-sm);
+	font-weight: var(--font-normal);
 }
 
 .k-block-type-spacer svg {

@@ -2,7 +2,7 @@
 	"name": "brandsistency/spacer-block",
 	"description": "A spacer block for Kirby websites",
 	"type": "kirby-plugin",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"homepage": "https://github.com/brandsis/kirby-spacer-block",
 	"authors": [
